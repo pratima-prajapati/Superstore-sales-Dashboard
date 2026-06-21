@@ -37,7 +37,7 @@ Interactive Power BI dashboard analyzing Superstore Sales Dataset with 9,801 rec
 [Bar Chart Analysis](https://github.com/pratima-prajapati/Superstore-sales-Dashboard/blob/main/bar_chart_analysis.png.png)
 
 ### Top 10 product Analysis
-[Top 10 product](top10_product_analysis.png)
+[Top 10 product](https://github.com/pratima-prajapati/Superstore-sales-Dashboard/blob/main/top10_product_analysis.png.png)
 
 ### Slicers and Filters
 [Slicers and Filters](https://github.com/pratima-prajapati/Superstore-sales-Dashboard/blob/main/slicers_and_filters.png.png)
