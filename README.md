@@ -22,6 +22,23 @@ Interactive Power BI dashboard analyzing Superstore Sales Dataset with 9,801 rec
 - Interactive Slicers (Year, Region, Category)
 - Professional Dark Gold Theme
 
+## Dashboard Screenshots
+
+### Dashboard Overview
+[Dashboard Overview](dashboard_overview.png)
+
+### KPI Summary
+[KPI Summary](kpi_summary.png)
+
+### Sales Trend Analysis
+[Sales Trend Analysis](sales_trend_analysis.png)
+
+### Bar Chart Analysis
+[Bar Chart Analysis](bar_chart_analysis.png)
+
+### Top 10 product Analysis
+[Top 10 product](top10_product_analysis.png)
+
 ## Tools Used
 - Power BI Desktop
 - Superstore Sales Dataset (9,801 records, 18 columns)
