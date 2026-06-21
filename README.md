@@ -25,7 +25,7 @@ Interactive Power BI dashboard analyzing Superstore Sales Dataset with 9,801 rec
 ## Dashboard Screenshots
 
 ### Dashboard Overview
-[Dashboard Overview]([dashboard_overview.png](https://github.com/pratima-prajapati/Superstore-sales-Dashboard/blob/main/dashboard_overview.png.png))
+[Dashboard Overview](https://github.com/pratima-prajapati/Superstore-sales-Dashboard/blob/main/dashboard_overview.png.png)
 
 ### KPI Summary
 [KPI Summary](https://github.com/pratima-prajapati/Superstore-sales-Dashboard/blob/main/kpi_summary.png)
@@ -34,7 +34,7 @@ Interactive Power BI dashboard analyzing Superstore Sales Dataset with 9,801 rec
 [Sales Trend Analysis](https://github.com/pratima-prajapati/Superstore-sales-Dashboard/blob/main/sales_trend_analysis.png.png)
 
 ### Bar Chart Analysis
-[Bar Chart Analysis](bar_chart_analysis.png)
+[Bar Chart Analysis](https://github.com/pratima-prajapati/Superstore-sales-Dashboard/blob/main/bar_chart_analysis.png.png)
 
 ### Top 10 product Analysis
 [Top 10 product](top10_product_analysis.png)
