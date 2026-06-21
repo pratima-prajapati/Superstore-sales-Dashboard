@@ -32,11 +32,15 @@ Interactive Power BI dashboard analyzing Superstore Sales Dataset with 9,801 rec
 
 ### Sales Trend Analysis
 [Sales Trend Analysis](https://github.com/pratima-prajapati/Superstore-sales-Dashboard/blob/main/sales_trend_analysis.png.png)
+
 ### Bar Chart Analysis
 [Bar Chart Analysis](bar_chart_analysis.png)
 
 ### Top 10 product Analysis
 [Top 10 product](top10_product_analysis.png)
+
+### Slicers and Filters
+[Slicers and Filters](https://github.com/pratima-prajapati/Superstore-sales-Dashboard/blob/main/slicers_and_filters.png.png)
 
 ## Tools Used
 - Power BI Desktop
