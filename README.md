@@ -55,4 +55,4 @@ Interactive Power BI dashboard analyzing Superstore Sales Dataset with 9,801 rec
 
 ## Author
 Pratima Prajapati
-Final-year B.Sc. IT Student | Data Analyst | Power BI
+Data Analyst | Power BI | Data Science 
